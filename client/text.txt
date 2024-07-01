@@ -1,0 +1,5 @@
+dependencies installed: 
+
+npm install stream-chat stream-chat-react universal-cookie
+
+npm install axios
